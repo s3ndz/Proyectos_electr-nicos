@@ -8,7 +8,7 @@ This system uses two ESP32 modules to detect potholes, record location data, and
 
 - ESP32-S3 Unit (Main Unit)
   - Collects and logs GPS coordinates
-  - Reads sensor values (RTS and ultrasonic)
+  - Reads sensor values ( ultrasonic)
   - Communicates with server (Wi-Fi)
   - Responds to camera alerts to trigger data capture
 
